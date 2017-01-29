@@ -1,0 +1,6 @@
+README
+-------------------
+In this repository there are 2 files that I created to complete Project 1 of the Data Science Nanodegree.
+
+1. stroopdata.csv: contains data by subject, including time in seconds that it took to read a congruent and an incongruent list
+2. project1.ipynb: contains data visualizations, statistical tests, results and conclusions
